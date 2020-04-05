@@ -1,0 +1,7 @@
+{
+    "env": {
+        "PORT": 3355,
+        "MONGO_URL": "mongodb+srv://Nazar:123_nazar_123@clusterapis-ewvpc.mongodb.net/testsData",
+        "JWT_SECRET": "BobDylanIsHurricane"
+    }
+}
